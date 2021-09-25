@@ -1,0 +1,11 @@
+C:\Users\Marvin\Desktop\altvserverproject\resources\AltVReallifeScript\AltVReallifeScript.deps.json
+C:\Users\Marvin\Desktop\altvserverproject\resources\AltVReallifeScript\AltVReallifeScript.dll
+C:\Users\Marvin\Desktop\altvserverproject\resources\AltVReallifeScript\AltVReallifeScript.pdb
+C:\Users\Marvin\source\repos\AltVReallifeScript\AltVReallifeScript\obj\Debug\AltVReallifeScript.AssemblyInfoInputs.cache
+C:\Users\Marvin\source\repos\AltVReallifeScript\AltVReallifeScript\obj\Debug\AltVReallifeScript.AssemblyInfo.cs
+C:\Users\Marvin\source\repos\AltVReallifeScript\AltVReallifeScript\obj\Debug\AltVReallifeScript.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\source\repos\AltVReallifeScript\AltVReallifeScript\obj\Debug\AltVReallifeScript.csproj.CopyComplete
+C:\Users\Marvin\source\repos\AltVReallifeScript\AltVReallifeScript\obj\Debug\AltVReallifeScript.dll
+C:\Users\Marvin\source\repos\AltVReallifeScript\AltVReallifeScript\obj\Debug\AltVReallifeScript.pdb
+C:\Users\Marvin\source\repos\AltVReallifeScript\AltVReallifeScript\obj\Debug\AltVReallifeScript.csproj.AssemblyReference.cache
+C:\Users\Marvin\source\repos\AltVReallifeScript\AltVReallifeScript\obj\Debug\AltVReallifeScript.GeneratedMSBuildEditorConfig.editorconfig

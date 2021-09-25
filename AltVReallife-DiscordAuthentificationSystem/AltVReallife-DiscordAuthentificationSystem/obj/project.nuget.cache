@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AeUQbAJD8vyJGNagZqqZ07rC5nA3A682g/NLIw3IeHjiyiZSa8D88rbRE/q/Kl7PnMk22yYVQcjEp84Dj4YOcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marvin\\source\\repos\\AltVReallife-DiscordAuthentificationSystem\\AltVReallife-DiscordAuthentificationSystem\\AltVReallife-DiscordAuthentificationSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marvin\\.nuget\\packages\\altv.net\\2.1.2-dev49\\altv.net.2.1.2-dev49.nupkg.sha512",
+    "C:\\Users\\Marvin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

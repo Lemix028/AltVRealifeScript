@@ -1,0 +1,9 @@
+C:\Users\Marvin\Desktop\altvserverproject\resources\AltVReallifeScript\netcoreapp3.1\AltVReallifeScript.deps.json
+C:\Users\Marvin\Desktop\altvserverproject\resources\AltVReallifeScript\netcoreapp3.1\AltVReallifeScript.dll
+C:\Users\Marvin\Desktop\altvserverproject\resources\AltVReallifeScript\netcoreapp3.1\AltVReallifeScript.pdb
+C:\Users\Marvin\source\repos\AltVReallifeScript\AltVReallifeScript\obj\Debug\netcoreapp3.1\AltVReallifeScript.csprojAssemblyReference.cache
+C:\Users\Marvin\source\repos\AltVReallifeScript\AltVReallifeScript\obj\Debug\netcoreapp3.1\AltVReallifeScript.AssemblyInfoInputs.cache
+C:\Users\Marvin\source\repos\AltVReallifeScript\AltVReallifeScript\obj\Debug\netcoreapp3.1\AltVReallifeScript.AssemblyInfo.cs
+C:\Users\Marvin\source\repos\AltVReallifeScript\AltVReallifeScript\obj\Debug\netcoreapp3.1\AltVReallifeScript.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\source\repos\AltVReallifeScript\AltVReallifeScript\obj\Debug\netcoreapp3.1\AltVReallifeScript.dll
+C:\Users\Marvin\source\repos\AltVReallifeScript\AltVReallifeScript\obj\Debug\netcoreapp3.1\AltVReallifeScript.pdb

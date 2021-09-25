@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Marvin\\source\\repos\\AltVReallifeScript\\AltVReallifeScript\\AltVReallifeScript.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Marvin\\source\\repos\\AltVReallifeScript\\AltVReallifeScript\\AltVReallifeScript.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marvin\\source\\repos\\AltVReallifeScript\\AltVReallifeScript\\AltVReallifeScript.csproj",
+        "projectName": "AltVReallifeScript",
+        "projectPath": "C:\\Users\\Marvin\\source\\repos\\AltVReallifeScript\\AltVReallifeScript\\AltVReallifeScript.csproj",
+        "packagesPath": "C:\\Users\\Marvin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marvin\\source\\repos\\AltVReallifeScript\\AltVReallifeScript\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.emzi0767.com/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AltV.Net": {
+              "target": "Package",
+              "version": "[2.1.2-dev49, )"
+            },
+            "AltV.Net.Async": {
+              "target": "Package",
+              "version": "[2.1.2-dev49, )"
+            },
+            "AltV.Net.Resources.Chat.Api": {
+              "target": "Package",
+              "version": "[1.48.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

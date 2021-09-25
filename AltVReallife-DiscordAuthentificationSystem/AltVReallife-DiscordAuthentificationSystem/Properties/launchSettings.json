@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AltVReallife-DiscordAuthentificationSystem": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Marvin\\Desktop\\altvserverproject\\altv-server.exe",
+      "workingDirectory": "C:\\Users\\Marvin\\Desktop\\altvserverproject"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltVReallifeScript", "AltVReallifeScript\AltVReallifeScript.csproj", "{D173087A-FD8E-47C2-8C0F-517A822C74CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D173087A-FD8E-47C2-8C0F-517A822C74CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D173087A-FD8E-47C2-8C0F-517A822C74CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D173087A-FD8E-47C2-8C0F-517A822C74CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D173087A-FD8E-47C2-8C0F-517A822C74CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6F2B3E8-91C8-4426-8BA5-4EDB208531C0}
+	EndGlobalSection
+EndGlobal
